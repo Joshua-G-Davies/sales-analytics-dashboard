@@ -5,7 +5,7 @@
 # Sales Analytics Dashboard (SQL + Power BI)
 
 ## Objective
-The goal of this project was to analyse transactional retail data to identify revenue trends, customer segmentation patterns, and top-performing products.
+This project analyses UK retail transaction data to uncover revenue trends, customer behaviour, and product performance using SQL and Power BI.
 
 ## Dataset
 The dataset contains transactional sales data including invoice dates, product descriptions, quantities, prices, and customer IDs.
@@ -24,7 +24,7 @@ The dataset contains transactional sales data including invoice dates, product d
 
 ## Key Insights
 - Revenue is highly concentrated among a small number of products
-- The United Kingdom accounts for the majority of total revenue
+- Revenue is heavily concentrated in the United Kingdom, indicating limited geographic diversification.
 - Revenue shows steady growth toward the end of the period
 - A small segment of high-value customers contributes disproportionately to revenue
 
