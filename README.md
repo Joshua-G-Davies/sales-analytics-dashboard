@@ -1,3 +1,7 @@
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 # Sales Analytics Dashboard (SQL + Power BI)
 
 ## Objective
